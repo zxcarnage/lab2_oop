@@ -1,0 +1,8 @@
+﻿  Account_test.cpp
+  SmartPointer.cpp
+  Source.cpp
+  Transaction.cpp
+  Создание кода...
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl SmartPointer<int>::SmartPointer<int>(void)" (??0?$SmartPointer@H@@QEAA@XZ) в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl SmartPointer<int>::~SmartPointer<int>(void)" (??1?$SmartPointer@H@@QEAA@XZ) в функции main.
+E:\OOP\Lab2_\x64\Debug\Lab2_.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

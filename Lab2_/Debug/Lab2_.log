@@ -1,0 +1,5 @@
+﻿  SmartPointer.cpp
+  Source.cpp
+E:\OOP\Lab2_\Lab2_\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  Lab2_.vcxproj -> E:\OOP\Lab2_\Debug\Lab2_.exe
